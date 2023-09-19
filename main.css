@@ -7,5 +7,5 @@
     color: rgb(255, 255, 255);
 }
 .back{
-    background-image: linear-gradient(to top, black , red);
+    background-image: linear-gradient(to right, black, rgb(70, 39, 70));
 }
