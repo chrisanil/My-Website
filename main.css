@@ -1,10 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Monoton&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Handjet:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bungee+Shade&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Monofett&display=swap");
 .title{
     color: rgb(255, 255, 255);
     text-align: center;
     font-size: 2rem;
+    font-family: "Bungee Shade", cursive;
 }
 .first{
     color: rgb(255, 255, 255);
+    font-family: "Handjet", cursive;
+    font-size: 1.3rem;
+    padding: 1.3rem;
 }
 .back{
     background-image: linear-gradient(to right, black, rgb(70, 39, 70));
