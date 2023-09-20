@@ -58,7 +58,7 @@
   cursor: pointer;
   align-items: center;
   position: relative;
-      bottom: 3.75rem;
+      bottom: -3.75rem;
 }
 .third{
     color: aliceblue;
