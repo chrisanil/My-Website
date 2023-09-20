@@ -16,13 +16,67 @@
 }
 .back{
     background-image: linear-gradient(to right, rgb(15, 27, 41), black, rgb(43, 13, 13));
+    height: 95px;
 }
-.list{
-text-align: center;
-color: rgb(32, 94, 145);
-text-shadow: 0.1rem 0.1rem rgb(0, 140, 255);
+
+.first{
+    color: aliceblue;
+    margin-left: 20rem;
+      padding: 20px;
+      height: 200px;
+      width: 250px;
+      display: flex;
+      flex-direction: column;
+      border: 1px solid gray;
+      background: rgba(255, 75, 255, 0.1);
+      box-shadow: 0 8px 40px 0 rgba(45, 57, 231, 0.37);
+      backdrop-filter: blur(4px);
+      -webkit-backdrop-filter: blur(4px);
+      border-radius: 10px;
+      border: 1px solid rgba(255, 255, 255, 0.18);
+      cursor: pointer;
+      align-items: center;
+      position: relative;
+      bottom: -30px;
 }
-.middle{
-padding-top: 7rem;
-margin-bottom: 7rem;
+.second{
+    padding-top: 12rem;
+    margin-left: 20rem;
+    color: aliceblue;
+  padding: 20px;
+  height: 200px;
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid gray;
+  background: rgba(255, 75, 255, 0.1);
+  box-shadow: 0 8px 40px 0 rgba(45, 57, 231, 0.37);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  cursor: pointer;
+  align-items: center;
+  position: relative;
+      bottom: -60px;
+}
+.third{
+    color: aliceblue;
+    margin-left: 20rem;
+      padding: 20px;
+      height: 200px;
+      width: 250px;
+      display: flex;
+      flex-direction: column;
+      border: 1px solid gray;
+      background: rgba(255, 75, 255, 0.1);
+      box-shadow: 0 8px 40px 0 rgba(45, 57, 231, 0.37);
+      backdrop-filter: blur(4px);
+      -webkit-backdrop-filter: blur(4px);
+      border-radius: 10px;
+      border: 1px solid rgba(255, 255, 255, 0.18);
+      cursor: pointer;
+      align-items: center;
+      position: relative;
+      bottom: -90px;
 }
