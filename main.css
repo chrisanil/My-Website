@@ -15,5 +15,10 @@
     padding: 1.3rem;
 }
 .back{
-    background-image: linear-gradient(to right, rgb(47, 101, 163), black, rgb(146, 26, 26));
+    background-image: linear-gradient(to right, rgb(15, 27, 41), black, rgb(43, 13, 13));
+}
+.list{
+letter-spacing: 0.1rem;
+text-align: center;
+color: aliceblue;
 }
