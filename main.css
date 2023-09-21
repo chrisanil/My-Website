@@ -39,6 +39,9 @@
       position: relative;
       bottom: -1.875rem;
       font-family: "Handjet", cursive;
+      font-size: 2rem;
+      justify-content: center;
+      align-items: center;
 }
 .second{
     padding-top: 12rem;
@@ -61,6 +64,9 @@
   position: relative;
       bottom: -3.75rem;
       font-family: "Handjet", cursive;
+      font-size: 2rem;
+      justify-content: center;
+      align-items: center;
 }
 .third{
     color: aliceblue;
@@ -82,4 +88,7 @@
       position: relative;
       bottom: -5.625rem;
       font-family: "Handjet", cursive;
+      font-size: 2rem;
+      justify-content: center;
+      align-items: center;
 }
